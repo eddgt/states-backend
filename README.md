@@ -38,6 +38,22 @@ The API provides the following endpoints:
 
 To use the endpoints, make HTTP requests to the corresponding URL using your favorite HTTP client or tools like cURL or Postman.
 
+
+## Dockerfile
+### Create de Docker image
+Building the Docker image: Open a terminal in the directory where your Dockerfile is located and execute the following command to build the Docker image:
+
+```
+docker build -t image_name .
+```
+
+### Running the Docker container
+Running the Docker container: Once the Docker image has been successfully built, you can run a container based on that image using the following command:
+
+```
+docker run -p 3003:3003 image_name
+```
+
 ## Contributions
 
 Contributions are welcome. If you find any bugs or have suggestions to improve the API, please open an issue or send a pull request.
