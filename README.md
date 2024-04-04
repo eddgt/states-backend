@@ -1,5 +1,3 @@
----
-
 # Backend API for States and Counties
 
 This is a backend API developed with Node.js 18.13.0 and TypeScript that provides endpoints for retrieving information about states and counties.
@@ -93,6 +91,4 @@ Contributions are welcome. If you find any bugs or have suggestions to improve t
 ## License
 
 This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
-
----
 
