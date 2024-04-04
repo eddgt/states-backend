@@ -40,11 +40,11 @@ These SQL commands will create the `states` and `counties` tables with the requi
 
 
 ## Insert the states records
-use the insert_states.sql script
+use the [insert_states.sql](https://github.com/eddgt/states-backend/blob/master/insert_states.sql) script
 
 
 ## Insert the counties records
-use the insert_counties.sql script
+use the [insert_counties.sql](https://github.com/eddgt/states-backend/blob/master/insert_counties.sql) script
 
 These SQL commands will insert `states` and `counties` table records.
 
