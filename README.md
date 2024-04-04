@@ -14,7 +14,8 @@ This API uses a PostgreSQL database to store information about states and counti
 CREATE TABLE states (
     id SERIAL PRIMARY KEY,
     name VARCHAR(255) NOT NULL,
-    population INT NOT NULL
+    population INT NOT NULL,
+    counties INT NOT NULL
 );
 ```
 
