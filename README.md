@@ -56,7 +56,7 @@ npm install
 npm start
 ```
 
-Go to http://localhost:3003/api/states to test the app
+Go to http://localhost:3003/api/states to test the API
 
 ## Usage
 
