@@ -27,6 +27,8 @@ npm install
 npm start
 ```
 
+Go to http://localhost:3003/api/states to test the app
+
 ## Usage
 
 The API provides the following endpoints:
